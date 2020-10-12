@@ -1,4 +1,4 @@
-//
+# Software Engineering 
 Introduction of comp201
   overview:
     -software development Process 
@@ -6,6 +6,7 @@ Introduction of comp201
     -software design
     -implementation and testing
     -project management
-//
 
-Week1: 
+## Week1
+
+## Week2
