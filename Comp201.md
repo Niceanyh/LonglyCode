@@ -16,7 +16,7 @@
   managing the process  
 
 #### what is software engineering ?  
-&nbsp Software engineering is an engineering discipline which is concerned with all aspects of software production.  
+  Software engineering is an engineering discipline which is concerned with all aspects of software production.  
   
 #### what is software process ?  
   software process is a set of activities whose goal is the development or evolution of software.  
@@ -32,5 +32,11 @@
   Efficiency - Software should not make wasteful use of system resources  
   Dependability - Software must be trustworthy (work with all data) 
   Usability - Software must be usable by the users for which it was designed  
+
+#### Issues of Professional Responsibility  
+confidentiality  
+competence  
+intellectual property rights  
+computer misuse  
 
 ## Week2
