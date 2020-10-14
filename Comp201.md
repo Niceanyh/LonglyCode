@@ -7,11 +7,11 @@
 >> -Software verification, validation and testing  
 >> -Management of Software Projects & Cost Estimation
 
-## Week1（#week1）  
+## [Week1](#week1)    
 lecture1:Introduction 
 lecture2:Software process  
 
-## Week2 (#week2)  
+## [Week2](#week2)  
 lecture3:,,,  
 
 
