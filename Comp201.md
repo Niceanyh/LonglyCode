@@ -7,7 +7,15 @@
 >> -Software verification, validation and testing  
 >> -Management of Software Projects & Cost Estimation
 
-## Week1  
+## Week1（#week1）  
+lecture1:Introduction 
+lecture2:Software process  
+
+## Week2 (#week2)  
+lecture3:,,,  
+
+
+## Week1{#week1}  
 
 #### software engineering task:  
 &#8195;define requirement  
@@ -39,4 +47,4 @@ competence
 intellectual property rights  
 computer misuse  
 
-## Week2
+## Week2{#week2}
