@@ -9,21 +9,15 @@
 
 
 * [Week1](#1)
-* [L1:Introduction](#1.1)
-* [L2:Software Process](#1.2)
-* [L3: ](#1.3)
 * [Week2](#2)
-* [L4: \](#2.1)
-* [L5](#2.2)
 * [Week3](#3)
-
 * [week4](#4)
 
 
 
 <h2 id="1">Week1</h2>
 
-<h3 id="1.1">Lecture 1</h3>
+### Lecture 1  
 #### software engineering task:  
 &#8195;define requirement  
 &#8195;design the product  
@@ -54,13 +48,13 @@ competence
 intellectual property rights  
 computer misuse  
 
-<h3 id="1.2">Lecture 2</h3>
-
+### Lecture 2  
 this is Lecture 2.  
 
 
-
 <h2 id="2">Week2</h2>
-<h3 id="1.3">Lecture 3</h3>
+### Lecture 4
+### Lecture 5
+### Lecture 6
 hello,world!
 
