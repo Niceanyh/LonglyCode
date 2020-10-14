@@ -9,26 +9,21 @@
 
 
 * [Week1](#1)
-
+* [L1:Introduction](#1.1)
+* [L2:Software Process](#1.2)
+* [L3: ](#1.3)
 * [Week2](#2)
-
+* [L4: \](#2.1)
+* [L5](#2.2)
 * [Week3](#3)
 
 * [week4](#4)
 
 
-### [Week1](#week1)    
-lecture1:Introduction  
-lecture2:Software process   
-### [Week2](#week2)  
-lecture3:,,,  
 
 <h2 id="1">Week1</h2>
 
-//## Week1[#week1]
-
-### lecture1  
-
+<h3 id="1.1">Lecture 1</h3>
 #### software engineering task:  
 &#8195;define requirement  
 &#8195;design the product  
@@ -69,4 +64,3 @@ computer misuse
 <h2 id="2">Week2</h2>
 hello,world!
 
-## Week2{#week2}
