@@ -54,13 +54,13 @@ competence
 intellectual property rights  
 computer misuse  
 
-### lecture2: Software Process  
+<h3 id="1.2">Lecture 2</h3>
 
-
-
+this is Lecture 2.  
 
 
 
 <h2 id="2">Week2</h2>
+<h3 id="1.3">Lecture 3</h3>
 hello,world!
 
