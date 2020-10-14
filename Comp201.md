@@ -7,14 +7,25 @@
 >> -Software verification, validation and testing  
 >> -Management of Software Projects & Cost Estimation
 
+
+* [Week1](#1)
+
+* [Week2](#2)
+
+* [Week3](#3)
+
+* [week4](#4)
+
+
 ### [Week1](#week1)    
 lecture1:Introduction  
 lecture2:Software process   
 ### [Week2](#week2)  
 lecture3:,,,  
 
+<h2 id="1">Week1</h2>
 
-## Week1[#week1]
+//## Week1[#week1]
 
 ### lecture1  
 
@@ -55,7 +66,7 @@ computer misuse
 
 
 
-
-
+<h2 id="2">Week2</h2>
+hello,world!
 
 ## Week2{#week2}
