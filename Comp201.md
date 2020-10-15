@@ -11,7 +11,7 @@
 * [Week1](#1)
 * [Week2](#2)
 * [Week3](#3)
-* [week4](#4)
+* [Week4](#4)
 
 
 
@@ -49,8 +49,15 @@
 &#8195;computer misuse  
 
 ### Lecture 2  Software Process  
+#### Process life cycle
+&#8195;Specifying, Designing, Implementing and Testing.
 
-this is Lecture 2.  
+#### The Waterfall Model 
+&#8195;
+
+#### Evolutionary Development
+&#8195;
+![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.md.png "11")
 
 
 <h2 id="2">Week2</h2>
