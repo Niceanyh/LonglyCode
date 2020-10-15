@@ -62,6 +62,10 @@
 
 #### Agile Development  
 
+#### Incremental Development(Scrum)  
+&#8195;the development and delivery is broken down into increments (SCRUM sprints) with each increment delivering part of the required functionality
+&#8195;User requirements are prioritised
+&#8195;Once the development of an increment is started, the requirements are frozen 
 <h2 id="2">Week2</h2>
 ### Lecture 4  
 ### Lecture 5  
