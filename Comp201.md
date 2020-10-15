@@ -39,7 +39,7 @@
 #### Four Attributes of Good Software: 
 &#8195;Maintainability - Software must (easily) evolvable to meet changing needs   
 &#8195;Efficiency - Software should not make wasteful use of system resources  
-&#8195;Dependability - Software must be trustworthy (work with all data) 
+&#8195;Dependability - Software must be trustworthy (work with all data)  
 &#8195;Usability - Software must be usable by the users for which it was designed  
 
 #### Issues of Professional Responsibility
@@ -63,8 +63,8 @@
 #### Agile Development  
 
 <h2 id="2">Week2</h2>
-### Lecture 4
-### Lecture 5
-### Lecture 6
-hello,world!
+### Lecture 4  
+### Lecture 5  
+### Lecture 6  
+hello,world!  
 
