@@ -56,7 +56,7 @@
 &#8195;Inflexible partitioning of the project into distinct stages, it is difficult to respond to changing customer requirements. Waterfall model describes a process of stepwise refinement.  
 
 #### Evolutionary Development  
-![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.md.png)
+![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.md.png)  
 &#8195;evolutionary development is based upon the idea of developing an initial implementation, exposing it to the user and refining it based upon their response.  
 &#8195;problem：Lack of process visibility and rare in safety critical, systems are sometimes poorly structured.  
 
