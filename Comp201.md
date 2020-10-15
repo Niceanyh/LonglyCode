@@ -52,13 +52,15 @@
 #### Process life cycle
 &#8195;Specifying, Designing, Implementing and Testing.
 
-#### The Waterfall Model 
-&#8195;
+#### The Waterfall Model  
+&#8195;Inflexible partitioning of the project into distinct stages, it is difficult to respond to changing customer requirements. Waterfall model describes a process of stepwise refinement.  
 
-#### Evolutionary Development
-&#8195;
-![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.th.png "11")
+#### Evolutionary Development  
+![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.md.png)
+&#8195;evolutionary development is based upon the idea of developing an initial implementation, exposing it to the user and refining it based upon their response.  
+&#8195;problem：Lack of process visibility and rare in safety critical, systems are sometimes poorly structured.  
 
+#### Agile Development  
 
 <h2 id="2">Week2</h2>
 ### Lecture 4
