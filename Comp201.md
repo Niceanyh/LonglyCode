@@ -66,7 +66,7 @@
 &#8195;Once the development of an increment is started, the requirements are frozen  
 &#8195;Advantage: customer requirement, Lower risk of overall project failure.  
 
-### Lecture 3  Software Process  
+### Lecture 3  Requirements engineering  
 #### The Requirements Engineering Process
 ![The Requirements Engineering Process](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)  
 
