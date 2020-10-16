@@ -60,17 +60,24 @@
 &#8195;evolutionary development is based upon the idea of developing an initial implementation, exposing it to the user and refining it based upon their response.  
 &#8195;problem：Lack of process visibility and rare in safety critical, systems are sometimes poorly structured.  
 
-#### Agile Development  
-
-#### Incremental Development(Scrum)
+#### Incremental Development(Scrum,one kind of Agile Development)
 &#8195;the development and delivery is broken down into increments (SCRUM sprints) with each increment delivering part of the required functionality  
 &#8195;User requirements are prioritised  
 &#8195;Once the development of an increment is started, the requirements are frozen  
 &#8195;Advantage: customer requirement, Lower risk of overall project failure.  
 
+### Lecture 3  Software Process  
+#### The Requirements Engineering Process
+![The Requirements Engineering Process](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)  
+
+#### Software Specification
+&#8195;Definition: the process of establishing what services are required and the constraints on the system’s operation and development. 
+
 <h2 id="2">Week2</h2>
 ### Lecture 4  
+
 ### Lecture 5  
+
 ### Lecture 6  
 hello,world!  
 
