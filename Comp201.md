@@ -67,11 +67,13 @@
 &#8195;Advantage: customer requirement, Lower risk of overall project failure.  
 
 ### Lecture 3  Requirements engineering  
-#### The Requirements Engineering Process
-![The Requirements Engineering Process](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)  
 
 #### Software Specification
-&#8195;Definition: the process of establishing what services are required and the constraints on the system’s operation and development. 
+&#8195;Definition: the process of establishing what services are required and the constraints on the system’s operation and development.  
+
+#### The Requirements Engineering Process
+&#8195;Requirements engineering is the process of developing a software specification.    
+![The Requirements Engineering Process](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)  
 
 #### Software Design and Implementation(inter-leaved)
 &#8195;Definition: The process of converting the system specification into an executable system    
