@@ -18,16 +18,16 @@
 <h2 id="1">Week1</h2>
 
 ### Lecture 1  Introduction  
-#### software engineering task:
+#### Software engineering task:
 &#8195;define requirement  
 &#8195;design the product  
 &#8195;implement and test  
 &#8195;managing the process  
 
-#### what is software engineering ?
+#### What is software engineering ?
 &#8195;Software engineering is an engineering discipline which is concerned with all aspects of software production.  
   
-#### what is software process ?
+#### What is software process ?
 &#8195;software process is a set of activities whose goal is the development or evolution of software.  
 
 #### Fundamental four activities in all software processes are:
@@ -72,6 +72,22 @@
 
 #### Software Specification
 &#8195;Definition: the process of establishing what services are required and the constraints on the system’s operation and development. 
+
+#### Software Design and Implementation(inter-leaved)
+&#8195;Definition: The process of converting the system specification into an executable system    
+##### Software design:
+Design a software structure that realises the specification,and design database, website design, data structures, communications protocols.
+&#8195;Architectural design  
+&#8195;Abstract specification  
+&#8195;Interface design  
+&#8195;Component design  
+&#8195;Data structure design  
+&#8195;Algorithm design  
+
+##### Implementation:
+&#8195;Translate this structure into an executable program.  
+
+
 
 <h2 id="2">Week2</h2>
 ### Lecture 4  
