@@ -76,13 +76,13 @@
 #### Software Design and Implementation(inter-leaved)
 &#8195;Definition: The process of converting the system specification into an executable system    
 ##### Software design:
-Design a software structure that realises the specification,and design database, website design, data structures, communications protocols.
-&#8195;Architectural design  
-&#8195;Abstract specification  
-&#8195;Interface design  
-&#8195;Component design  
-&#8195;Data structure design  
-&#8195;Algorithm design  
+Design a software structure that realises the specification,and design database, website design, data structures, communications protocols.  
+&#8195;*Architectural design  
+&#8195;*Abstract specification  
+&#8195;*Interface design  
+&#8195;*Component design  
+&#8195;*Data structure design  
+&#8195;*Algorithm design  
 
 ##### Implementation:
 &#8195;Translate this structure into an executable program.  
