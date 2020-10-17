@@ -18,8 +18,12 @@
 
 ### Lecture 1  Theory of computation  
 #### The law of computation :
-&#8195;• Basic algorithms that have been used to enable the AI agents to conduct the perception, inference, and planning tasks; Applying basic AI algorithms to solve problems;
+&#8195;• Automata Theory studies the law of computation which tell us what is possible and impossible for computers;  
 &#8195;• Machine learning algorithms; Applying machine learning algorithms to practical problems;
+
+#### Formal language and Automata Theory :
+&#8195;• Automata describe the operation of a device/process; used in lexical analyze to recognize expression in programming language.  
+&#8195;• 
 
 ### Lecture 2  Software Process  
 #### Evolutionary Development  
