@@ -25,6 +25,13 @@
 &#8195;• Automata describe the operation of a device/process; used in lexical analyze to recognize expression in programming language.  
 &#8195;• 
 
+#### Different kind of machine:
+&#8195;• finite machine  
+&#8195;• pushdown machine 
+&#8195;• Turing machine 
+&#8195;• resource-bounded Turing machine 
+
+
 ### Lecture 2  Software Process  
 #### Evolutionary Development  
 ![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.md.png)  
