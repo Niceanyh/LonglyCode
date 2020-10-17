@@ -31,6 +31,8 @@
 &#8195;• Turing machine 
 &#8195;• resource-bounded Turing machine 
 
+#### Different kind of machine:
+
 
 ### Lecture 2  Software Process  
 #### Evolutionary Development  
