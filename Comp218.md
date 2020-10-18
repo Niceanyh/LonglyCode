@@ -35,7 +35,7 @@
 &#8195;• An alphabet is a finite set of symbols.  
 &#8195;$\Sigma$ 1 = {a, b, c, d, …, z}: the set of letters in English  
 &#8195;$\Sigma$ 2 = {0, 1, …, 9}: the set of (base 10) digits  
-&#8195;$\Sigma$ 3 = {a, b, …, z, #}: the set of letters plus the special symbol #  
+&#8195;$\varsigma$ 3 = {a, b, …, z, #}: the set of letters plus the special symbol #  
 
 
 ### Lecture 2  Software Process  
