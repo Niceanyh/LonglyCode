@@ -33,9 +33,9 @@
 
 #### Alphabet and strings
 &#8195;• An alphabet is a finite set of symbols.  
-S1 = {a, b, c, d, …, z}: the set of letters in English  
-S2 = {0, 1, …, 9}: the set of (base 10) digits  
-S3 = {a, b, …, z, #}: the set of letters plus the special symbol #  
+&#8195;\Sigma1 = {a, b, c, d, …, z}: the set of letters in English  
+&#8195;\Sigma2 = {0, 1, …, 9}: the set of (base 10) digits  
+&#8195;\Sigma3 = {a, b, …, z, #}: the set of letters plus the special symbol #  
 
 
 ### Lecture 2  Software Process  
