@@ -34,8 +34,9 @@
 #### Alphabet and strings
 &#8195;• An alphabet is a finite set of symbols.  
 [![0zmvhd.md.png](https://s1.ax1x.com/2020/10/19/0zmvhd.md.png)](https://imgchr.com/i/0zmvhd)  
-&#8195;• String
-[![0zeJZF.md.png](https://s1.ax1x.com/2020/10/19/0zeJZF.md.png)](https://imgchr.com/i/0zeJZF)  
+&#8195;• String  
+
+[![String](https://s1.ax1x.com/2020/10/19/0zeJZF.md.png)](https://imgchr.com/i/0zeJZF)  
 
 ### Lecture 2  Software Process  
 #### Evolutionary Development  
