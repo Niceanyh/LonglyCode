@@ -37,9 +37,11 @@
 &#8195;\Sigma2 = {0, 1, …, 9}: the set of (base 10) digits  
 &#8195;\Sigma3 = {a, b, …, z, #}: the set of letters plus the special symbol #  
 &#8195;• string over alphabet \Sigma is a finite sequence of symbols in \Sigma.  
-&#8195;abfbz is a string over \Sigma1 = {a, b, c, d, …, z} 
-&#8195;9021 is a string over \Sigma2 = {0, 1, …, 9} 
-&#8195;ab#bc is a string over \Sigma3 = {a, b, …, z, #}
+&#8195;abfbz is a string over \Sigma1 = {a, b, c, d, …, z}  
+&#8195;9021 is a string over \Sigma2 = {0, 1, …, 9}  
+&#8195;ab#bc is a string over \Sigma3 = {a, b, …, z, #}  
+
+[![](https://s1.ax1x.com/2020/10/19/0zeJZF.png)](https://imgchr.com/i/0zeJZF)
 
 ### Lecture 2  Software Process  
 #### Evolutionary Development  
