@@ -29,8 +29,9 @@
 &#8195;• finite machine  
 &#8195;• pushdown machine 
 &#8195;• Turing machine 
-&#8195;• resource-bounded Turing machine 
+&#8195;• resource-bounded Turing machine  
 
+### Lecture 2  Language
 #### Alphabet and strings
 &#8195;• An alphabet is a finite set of symbols.  
 [![0zmvhd.md.png](https://s1.ax1x.com/2020/10/19/0zmvhd.md.png)](https://imgchr.com/i/0zmvhd)  
@@ -38,9 +39,9 @@
 
 [![String](https://s1.ax1x.com/2020/10/19/0zeJZF.md.png)](https://imgchr.com/i/0zeJZF)  
 
-### Lecture 2  Software Process  
-#### Evolutionary Development  
-![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.md.png)  
+### Lecture 3  Decision  
+#### DFS 
+
 
 
 
