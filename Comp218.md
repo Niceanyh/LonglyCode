@@ -41,7 +41,7 @@
 &#8195;9021 is a string over \Sigma2 = {0, 1, …, 9}  
 &#8195;ab#bc is a string over \Sigma3 = {a, b, …, z, #}  
 
-[![](https://s1.ax1x.com/2020/10/19/0zeJZF.png)](https://imgchr.com/i/0zeJZF)
+[![0H9hP1.md.png](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)](https://imgchr.com/i/0H9hP1)
 
 ### Lecture 2  Software Process  
 #### Evolutionary Development  
