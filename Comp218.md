@@ -33,15 +33,10 @@
 
 #### Alphabet and strings
 &#8195;• An alphabet is a finite set of symbols.  
-&#8195;\Sigma1 = {a, b, c, d, …, z}: the set of letters in English  
-&#8195;\Sigma2 = {0, 1, …, 9}: the set of (base 10) digits  
-&#8195;\Sigma3 = {a, b, …, z, #}: the set of letters plus the special symbol #  
-&#8195;• string over alphabet \Sigma is a finite sequence of symbols in \Sigma.  
-&#8195;abfbz is a string over \Sigma1 = {a, b, c, d, …, z}  
-&#8195;9021 is a string over \Sigma2 = {0, 1, …, 9}  
-&#8195;ab#bc is a string over \Sigma3 = {a, b, …, z, #}  
+[![0zmjtH.md.png](https://s1.ax1x.com/2020/10/19/0zmjtH.md.png)](https://imgchr.com/i/0zmjtH)
+[![0zmvhd.md.png](https://s1.ax1x.com/2020/10/19/0zmvhd.md.png)](https://imgchr.com/i/0zmvhd)
 
-[![0H9hP1.md.png](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)](https://imgchr.com/i/0H9hP1)
+[![0zeJZF.md.png](https://s1.ax1x.com/2020/10/19/0zeJZF.md.png)](https://imgchr.com/i/0zeJZF)
 
 ### Lecture 2  Software Process  
 #### Evolutionary Development  
