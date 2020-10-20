@@ -102,9 +102,17 @@ Good programming is iterative.
 #### Requirement engineering 
 &#8195;Requirement engineering is the process of generating the description of the system services and constraints. The services is customer Requirement from a system, the constraint is a program operates and developed.  
 #### Why do we need Requirement 
-&#8195;To ensure that a Software correctly solves a particular problem. 
-&#8195;poorly defined Requirement can cause major problems to a project in both financial terms as well as added time. 
+&#8195;To ensure that a Software correctly solves a particular problem.  
+&#8195;poorly defined Requirement can cause major problems to a project in both financial terms as well as added time.  
 
+#### What is Requirement 
+&#8195;Range from a high-level abstract statement of a service or of a system constraint to a detailed mathematical functional specification.  
+&#8195;Requirement May be the basis for a bid for a contract.(Requirement must be defined in detail and open to interpretation)  
+
+#### Type of Requirement 
+&#8195;User Requirement(for customer)  
+&#8195;System Requirement(as a contract)  
+&#8195;Software Specification(for developer)  
 
 ### Lecture 5  
 
