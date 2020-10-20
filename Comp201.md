@@ -98,7 +98,11 @@ Good programming is iterative.
 
 <h2 id="2">Week2</h2>  
 
-### Lecture 4  
+### Lecture 4  Software Requirement
+#### Requirement engineering 
+&#8195;Requirement engineering is the process of generating the description of the system services and constraints. The services is customer Requirement from a system, the constraint is a program operates and developed.  
+
+
 
 ### Lecture 5  
 
