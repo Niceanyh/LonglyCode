@@ -66,18 +66,20 @@
 &#8195;Once the development of an increment is started, the requirements are frozen  
 &#8195;Advantage: customer requirement, Lower risk of overall project failure.  
 
-### Lecture 3  Software Process  
-#### The Requirements Engineering Process
-![The Requirements Engineering Process](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)  
+### Lecture 3  Requirements engineering  
 
 #### Software Specification
-&#8195;Definition: the process of establishing what services are required and the constraints on the system’s operation and development. 
+&#8195;Definition: the process of establishing what services are required and the constraints on the system’s operation and development.  
+
+#### The Requirements Engineering Process
+&#8195;Requirements engineering is the process of developing a software specification.    
+![The Requirements Engineering Process](https://s1.ax1x.com/2020/10/16/0H9hP1.md.png)  
 
 #### Software Design and Implementation(inter-leaved)
 &#8195;Definition: The process of converting the system specification into an executable system    
 ##### Software design:
 Design a software structure that realises the specification,and design database, website design, data structures, communications protocols.  
-&#8195;*Architectural design  
+&#8195;*Architectural design（major sub-system）  
 &#8195;*Abstract specification  
 &#8195;*Interface design  
 &#8195;*Component design  
@@ -87,9 +89,15 @@ Design a software structure that realises the specification,and design database,
 ##### Implementation:
 &#8195;Translate this structure into an executable program.  
 
+##### Programming and Debugging
+&#8195;Programming and Debugging consist of translating a design into a program and removing errors from that program.  
 
+#### Software testing process 
+Good programming is iterative.  
+![Testing Process](https://pic.downk.cc/item/5f8924341cd1bbb86b63ffcb.png)  
 
-<h2 id="2">Week2</h2>
+<h2 id="2">Week2</h2>  
+
 ### Lecture 4  
 
 ### Lecture 5  
