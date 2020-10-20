@@ -112,7 +112,15 @@ Good programming is iterative.
 #### Type of Requirement 
 &#8195;User Requirement(for customer)  
 &#8195;System Requirement(as a contract)  
-&#8195;Software Specification(for developer)  
+&#8195;Software Specification(for developer)   
+&#8195;  
+&#8195;Functional requirement  
+&#8195;Non-functional requirement  
+&#8195;Domain requirement  
+
+#### Precision Requirements 
+&#8195;Problem arise when requirements are not precisely stated.  
+&#8195;Ambiguous requirements may be interpreted in different way between user and developer.  
 
 ### Lecture 5  
 
