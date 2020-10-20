@@ -15,10 +15,11 @@
 
 <h2 id="1">Week1</h2>
 
-### Lecture 1  Theory of computation  
-#### The law of computation :
-&#8195;• Automata Theory studies the law of computation which tell us what is possible and impossible for computers;  
-&#8195;• Machine learning algorithms; Applying machine learning algorithms to practical problems;
+### Lecture 1  Introduction to SQL  
+#### Relational database :
+&#8195;• Data is organised in tables(also called relations)  
+&#8195;• All element in an attribute are of the same datatype  
+&#8195;• Each table has a schema. The schema of Items is Items(name,price,number)  
 
 #### Formal language and Automata Theory :
 &#8195;• Automata describe the operation of a device/process; used in lexical analyze to recognize expression in programming language.  
