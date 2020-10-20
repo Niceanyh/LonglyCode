@@ -21,17 +21,14 @@
 &#8195;• All element in an attribute are of the same datatype  
 &#8195;• Each table has a schema. The schema of Items is Items(name,price,number)  
 &#8195;• Columns/attributes are fixed, rows depends on the table can change  
+&#8195;• For OO Programmingm, if two rows are the same, we view them as being the same item  
 
 
-#### Formal language and Automata Theory :
-&#8195;• Automata describe the operation of a device/process; used in lexical analyze to recognize expression in programming language.  
-&#8195;• 
-
-#### Different kind of machine:
-&#8195;• finite machine  
-&#8195;• pushdown machine 
-&#8195;• Turing machine 
-&#8195;• resource-bounded Turing machine  
+#### SQL :
+&#8195;• Relational database are accessed using SQL(Standard Query Language)    
+&#8195;• Data Definition Language(DDL):Create/alter/delete databases,tables and their attributes.  
+&#8195;• Data Manipulation Language(DML):Add/remove/update and query rows in tables.  
+&#8195;• Transact-SQL  
 
 ### Lecture 2  Language
 #### Alphabet and strings
