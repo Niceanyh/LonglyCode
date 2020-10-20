@@ -20,6 +20,8 @@
 &#8195;• Data is organised in tables(also called relations)  
 &#8195;• All element in an attribute are of the same datatype  
 &#8195;• Each table has a schema. The schema of Items is Items(name,price,number)  
+&#8195;• Columns/attributes are fixed, rows depends on the table can change  
+
 
 #### Formal language and Automata Theory :
 &#8195;• Automata describe the operation of a device/process; used in lexical analyze to recognize expression in programming language.  
