@@ -49,21 +49,22 @@
 
 ### Lecture 4  DFA
 #### A deterministic finite automaton
-&#8195;a DFA (Q, S, d, q0, F) is the set of all strings over S that,starting from q0 and following the transitions as the string is read left to right, will reach some accepting state.  
+&#8195;a DFA (Q, S, d, q0, F) is the set of all strings over S that  
+&#8195;Starting from q0 and following the transitions as the string is read left to right, will reach some accepting state   
 
 ### Lecture 5  NFA
 #### A nondeterministic finite automaton 
 &#8195; a 5-tuple (Q, Σ, δ, q0, F) where  
-&#8195;–  Q is a finite set of states. 
-&#8195;–  Σ is an alphabet. 
-&#8195;–  δ: Q × Σ → subsets of Q is a transition function –  q0 ∈ Q is the initial state. 
-&#8195;–  F ⊆ Q is a set of accepting states (or final states).  
+&#8195;–  Q is a finite set of states  
+&#8195;–  Σ is an alphabet  
+&#8195;–  δ: Q × Σ → subsets of Q is a transition function –  q0 ∈ Q is the initial state  
+&#8195;–  F ⊆ Q is a set of accepting states (or final states)  
 
 ### Lecture 6  ε-NFA
 #### An ε-nondeterministic finite automaton (ε-NFA)
-&#8195; a 5-tuple (Q, Σ, δ, q0, F) where
-&#8195;–  Q is a finite set of states
-&#8195;–  Σ is an alphabet
-&#8195;–  δ:Q×(Σ∪{ε})→subsetsof Qisatrans.function –  q0 ∈ Q is the initial state
-&#8195;–  F ⊆ Q is a set of accepting states (or final states).
+&#8195; a 5-tuple (Q, Σ, δ, q0, F) where  
+&#8195;–  Q is a finite set of states  
+&#8195;–  Σ is an alphabet  
+&#8195;–  δ:Q×(Σ∪{ε})→subsetsof Qisatrans.function –  q0 ∈ Q is the initial state   
+&#8195;–  F ⊆ Q is a set of accepting states (or final states)  
 
