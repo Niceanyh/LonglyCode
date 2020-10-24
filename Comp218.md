@@ -62,16 +62,17 @@
 
 #### feature
 &#8195;An NFA can reach several different states after reading a given word  
-&#8195;Differences from DFA:– transition function δ can go into several states  
+&#8195;Differences from DFA: transition function δ can go into several states  
 
 ### Lecture 6  ε-NFA
 #### An ε-nondeterministic finite automaton (ε-NFA)
 &#8195; a 5-tuple (Q, Σ, δ, q0, F) where  
 &#8195;–  Q is a finite set of states  
 &#8195;–  Σ is an alphabet  
-&#8195;–  δ:Q×(Σ∪{ε})→subsetsof Qisatrans.function –  q0 ∈ Q is the initial state   
+&#8195;–  δ:Q×(Σ∪{ε})→subsetsof Q is a transition function  
+&#8195;–  q0 ∈ Q is the initial state   
 &#8195;–  F ⊆ Q is a set of accepting states (or final states)  
 
 #### feature
-&#8195;Differences from NFA: – It allows ε-transitions  
+&#8195;Differences from NFA: It allows ε-transitions  
 
