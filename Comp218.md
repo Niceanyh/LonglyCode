@@ -76,3 +76,10 @@
 #### feature
 &#8195;Differences from NFA: It allows ε-transitions  
 
+<h2 id="3">Week3</h2> 
+### Lecture 7
+
+### Lecture 8
+
+### Lecture 9
+
