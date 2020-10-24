@@ -47,10 +47,11 @@
 
 <h2 id="2">Week2</h2>  
 
-### Lecture 4  
+### Lecture 4  DFA
 
-### Lecture 5  
+### Lecture 5  NFA
 
-### Lecture 6  
+### Lecture 6  ε-NFA
+
 hello,world!  
 
