@@ -30,24 +30,18 @@
 &#8195;• Data Manipulation Language(DML):Add/remove/update and query rows in tables.  
 &#8195;• Transact-SQL  
 
-### Lecture 2  Language
-#### Alphabet and strings
-&#8195;• An alphabet is a finite set of symbols.  
-[![0zmvhd.md.png](https://s1.ax1x.com/2020/10/19/0zmvhd.md.png)](https://imgchr.com/i/0zmvhd)  
-&#8195;• String  
-
-[![String](https://s1.ax1x.com/2020/10/19/0zeJZF.md.png)](https://imgchr.com/i/0zeJZF)  
-
-
-
+### Lecture 2  SQL DDL(Data DEfinition Language)
+#### wait to be uploaded..
+### Lecture 3  SQL DML(Data Manipulation Language)
+#### wait to be uploaded..
 
 <h2 id="2">Week2</h2>  
 
-### Lecture 4  
+### Lecture 4  SQL Queries -require part
 
-### Lecture 5  
+### Lecture 5  SQL Queries -optional part
 
-### Lecture 6  
+### Lecture 6  SQL Queries -Misc
 hello,world!  
 
 
