@@ -31,7 +31,19 @@
 &#8195;• Transact-SQL  
 
 ### Lecture 2  SQL DDL(Data DEfinition Language)
-#### wait to be uploaded..
+#### creat a batabese
+&#8195;CREAT DATABASE databasename;(not case-sensitive)  
+#### creat a table
+&#8195;CREATE TABLE Table_name(  
+&#8195;column1 datatype,  
+&#8195;column2 datatype,  
+&#8195;column3 datatype,  
+&#8195;)  
+&#8195;The schema is Table_name(column1,column2,column3)  
+
+#### Datatypes
+
+
 ### Lecture 3  SQL DML(Data Manipulation Language)
 #### wait to be uploaded..
 
