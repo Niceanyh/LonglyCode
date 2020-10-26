@@ -66,9 +66,10 @@
 &#8195;A foreign key is used to link two tables together explicitly.  
 
 #### DROP & Modify
-&#8195;DROP DATABASE CS_Store;  
-&#8195;DROP TABLE Employees;  
-ALTER TABLE Employees ADD email VARCHAR(100); 
+DROP DATABASE CS_Store;  
+DROP TABLE Employees;  
+&#8195;  
+ALTER TABLE Employees ADD email VARCHAR(100);  
 &#8195;//Adds an email attribute  
 ALTER TABLE Employees MODIFY email VARCHAR(200);  
 &#8195;//Changes the email attribute to allow longer emails  
