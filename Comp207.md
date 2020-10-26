@@ -77,7 +77,8 @@ ALTER TABLE Employees DROP COLUMN email;
 &#8195;//Removes the email attribute again  
 
 ### Lecture 3  SQL DML(Data Manipulation Language)
-#### wait to be uploaded..
+#### 
+
 
 <h2 id="2">Week2</h2>  
 
