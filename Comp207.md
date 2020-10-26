@@ -68,9 +68,12 @@
 #### DROP & Modify
 &#8195;DROP DATABASE CS_Store;  
 &#8195;DROP TABLE Employees;  
-&#8195;ALTER TABLE Employees ADD email VARCHAR(100); //Adds an email attribute  
-&#8195;ALTER TABLE Employees MODIFY email VARCHAR(200); //Changes the email attribute to allow longer emails  
-&#8195;ALTER TABLE Employees DROP COLUMN email; //Removes the email attribute again  
+ALTER TABLE Employees ADD email VARCHAR(100); 
+&#8195;//Adds an email attribute  
+ALTER TABLE Employees MODIFY email VARCHAR(200);  
+&#8195;//Changes the email attribute to allow longer emails  
+ALTER TABLE Employees DROP COLUMN email;  
+&#8195;//Removes the email attribute again  
 
 ### Lecture 3  SQL DML(Data Manipulation Language)
 #### wait to be uploaded..
