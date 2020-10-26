@@ -51,13 +51,16 @@
 &#8195;XML – for XML files  
 &#8195;BLOB – binary files (e.g. programs)  
 
-####Unique
+#### Unique
 &#8195;CREATE TABLE Employees (  
 &#8195;birthday DATE,  
 &#8195;first_name VARCHAR(100),  
 &#8195;family_name VARCHAR(100),  
 &#8195;CONSTRAINT UC_Employees UNIQUE(birthday,first_name));  
 &#8195;//Unique in a table means that for each value, there is at most one row in the table where the set of attributes take that value.   
+
+#### Primary Key
+&#8195;
 
 ### Lecture 3  SQL DML(Data Manipulation Language)
 #### wait to be uploaded..
