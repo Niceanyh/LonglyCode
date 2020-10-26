@@ -83,7 +83,7 @@ ALTER TABLE Employees DROP COLUMN email;
 
 #### Update rows in a table
 
-#### * [Query a table](#101)
+#### [Query a table](#101)
 
 
 
