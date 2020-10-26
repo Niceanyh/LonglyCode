@@ -89,10 +89,9 @@ VALUES('G702','Danny');
 #### Delete rows from a table
 DELETE FROM Students  
 WHERE name=‘John’;  
-&#8195;//Conditions in WHERE clauses
-##### AND
+##### Conditions in WHERE clauses
+##### AND/OR
 Both that the name is Oliver and the programme is G402, you write WHERE name = ‘Oliver’ AND programme = ‘G402’   
-##### OR
 ##### NOT
 If you want everything but something in particular  
 ##### BETWEEN
@@ -102,14 +101,15 @@ _ matches any 1 letter and % any number of letters
 E.g. “Name LIKE ‘O%r’” and “Name LIKE ‘O____r’” matches Oliver  
 
 #### Update rows in a table
+UPDATE Students  
+SET programme=‘G402’  
+WHERE name=‘Oliver’;  
+&#8195;or  
+UPDATE Students  
+SET number=number+1  
+WHERE name=‘Oliver’;  
 
 #### [Query a table](#101)
-
-
-
-
-
-
 
 <h2 id="2">Week2</h2>  
 
