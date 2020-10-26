@@ -39,7 +39,7 @@
 &#8195;column2 datatype,  
 &#8195;column3 datatype,  
 &#8195;)  
-&#8195;//The schema is Table_name(column1,column2,column3)  
+&#8195;// The schema is Table_name(column1,column2,column3)  
 
 #### Datatypes
 &#8195;INT – integers  
@@ -57,10 +57,20 @@
 &#8195;first_name VARCHAR(100),  
 &#8195;family_name VARCHAR(100),  
 &#8195;CONSTRAINT UC_Employees UNIQUE(birthday,first_name));  
-&#8195;//Unique in a table means that for each value, there is at most one row in the table where the set of attributes take that value.   
+&#8195;// Unique in a table means that for each value, there is at most one row in the table where the set of attributes take that value.   
 
 #### Primary Key
-&#8195;
+&#8195;Primary keys must be unique and there can only be 1 primary key per table.   
+
+#### Foreign Key
+&#8195;A foreign key is used to link two tables together explicitly.  
+
+#### DROP & Modify
+&#8195;DROP DATABASE CS_Store;  
+&#8195;DROP TABLE Employees;  
+&#8195;ALTER TABLE Employees ADD email VARCHAR(100); //Adds an email attribute  
+&#8195;ALTER TABLE Employees MODIFY email VARCHAR(200); //Changes the email attribute to allow longer emails  
+&#8195;ALTER TABLE Employees DROP COLUMN email; //Removes the email attribute again  
 
 ### Lecture 3  SQL DML(Data Manipulation Language)
 #### wait to be uploaded..
