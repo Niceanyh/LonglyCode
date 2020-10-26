@@ -77,12 +77,24 @@ ALTER TABLE Employees DROP COLUMN email;
 &#8195;//Removes the email attribute again  
 
 ### Lecture 3  SQL DML(Data Manipulation Language)
-#### 
+#### Insert rows into a table
+
+#### Delete rows from a table
+
+#### Update rows in a table
+
+#### * [Query a table](#101)
+
+
+
+
+
 
 
 <h2 id="2">Week2</h2>  
 
-### Lecture 4  SQL Queries -require part
+### Lecture 4  SQL Queries -require part 
+<h3 id="101">Lecture 4 SQL Queries -require part</h3>  
 
 ### Lecture 5  SQL Queries -optional part
 
