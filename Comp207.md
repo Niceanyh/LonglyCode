@@ -78,8 +78,28 @@ ALTER TABLE Employees DROP COLUMN email;
 
 ### Lecture 3  SQL DML(Data Manipulation Language)
 #### Insert rows into a table
+INSERT INTO Students  
+VALUES ('Oliver',20171112,'G402');  
+&#8195;//' is used to denote the start or end of a string  
+
+INSERT INTO Students(programme,name)  
+VALUES('G702','Danny');  
+&#8195;//insert could be specific set of attributes, null occur when not mention.  
 
 #### Delete rows from a table
+DELETE FROM Students  
+WHERE name=‘John’;  
+&#8195;//Conditions in WHERE clauses
+##### AND
+Both that the name is Oliver and the programme is G402, you write WHERE name = ‘Oliver’ AND programme = ‘G402’   
+##### OR
+##### NOT
+If you want everything but something in particular  
+##### BETWEEN
+E.g. Price BETWEEN 10 AND 20  
+##### LIKE(For string matching)
+_ matches any 1 letter and % any number of letters  
+E.g. “Name LIKE ‘O%r’” and “Name LIKE ‘O____r’” matches Oliver  
 
 #### Update rows in a table
 
@@ -93,7 +113,6 @@ ALTER TABLE Employees DROP COLUMN email;
 
 <h2 id="2">Week2</h2>  
 
-### Lecture 4  SQL Queries -require part 
 <h3 id="101">Lecture 4 SQL Queries -require part</h3>  
 
 ### Lecture 5  SQL Queries -optional part
