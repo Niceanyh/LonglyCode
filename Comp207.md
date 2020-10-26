@@ -39,17 +39,25 @@
 &#8195;column2 datatype,  
 &#8195;column3 datatype,  
 &#8195;)  
-&#8195;The schema is Table_name(column1,column2,column3)  
+&#8195;//The schema is Table_name(column1,column2,column3)  
 
 #### Datatypes
-&#8195;INT – integers
-&#8195;FLOAT – decimal numbers
-&#8195;CHAR(x) – x is an integer, fixed length string
-&#8195;VARCHAR(x) – x is an integer, variable length string
-&#8195;DATE – Format YYYY-MM-DD, e.g. 1990-11-10 would be the 10th of November 1990
-&#8195;DATETIME – for time and dates, Format YYYY-MM-DD HH:MI:SS, e.g. 1990-11-10 17:15:00 would be a quarter past 5pm the 10th of November 1990
-&#8195;XML – for XML files
-&#8195;BLOB – binary files (e.g. programs)
+&#8195;INT – integers  
+&#8195;FLOAT – decimal numbers  
+&#8195;CHAR(x) – x is an integer, fixed length string  
+&#8195;VARCHAR(x) – x is an integer, variable length string  
+&#8195;DATE – Format YYYY-MM-DD, e.g. 1990-11-10 would be the 10th of November 1990  
+&#8195;DATETIME – for time and dates, Format YYYY-MM-DD HH:MI:SS.  
+&#8195;XML – for XML files  
+&#8195;BLOB – binary files (e.g. programs)  
+
+####Unique
+&#8195;CREATE TABLE Employees (  
+&#8195;birthday DATE,  
+&#8195;first_name VARCHAR(100),  
+&#8195;family_name VARCHAR(100),  
+&#8195;CONSTRAINT UC_Employees UNIQUE(birthday,first_name));  
+&#8195;//Unique in a table means that for each value, there is at most one row in the table where the set of attributes take that value.   
 
 ### Lecture 3  SQL DML(Data Manipulation Language)
 #### wait to be uploaded..
