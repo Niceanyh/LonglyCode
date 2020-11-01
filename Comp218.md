@@ -77,7 +77,7 @@
 &#8195;Differences from NFA: It allows ε-transitions  
 
 #### ε-NFA to NFA conversion 
-[![BdxxQU.md.png](https://s1.ax1x.com/2020/11/01/BdxxQU.md.png)](https://imgchr.com/i/BdxxQU)
+[![BdxxQU.md.png](https://s1.ax1x.com/2020/11/01/BdxxQU.md.png)](https://imgchr.com/i/BdxxQU)  
 &#8195;Paths with εs are replaced by a single transition  
 &#8195;States that can reach final state by ε are all accepting  
 
