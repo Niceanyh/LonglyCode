@@ -76,10 +76,13 @@
 #### feature
 &#8195;Differences from NFA: It allows ε-transitions  
 
-<h2 id="3">Week3</h2> 
-### Lecture 7 ε-NFA to NFA to DFA conversion
+#### ε-NFA to NFA to DFA conversion
 
-### Lecture 8 Regular Expression(regex)
+<h2 id="3">Week3</h2>  
 
-### Lecture 9
+### Lecture 7 Regular Expression(regex)
+
+### Lecture 8 Regex Analysis and Design 
+
+### Lecture 9 Regex to epsilon-NFA conversion 
 
