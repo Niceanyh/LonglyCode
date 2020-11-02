@@ -131,5 +131,8 @@ Good programming is iterative.
 
 
 ### Lecture 6  
-hello,world!  
-
+####  requirement engineering process 
+&#8195;1. Requirement elicitation  
+&#8195;2. Requirement analysis  
+&#8195;3. Require validation  
+&#8195;4. Requirement management  
