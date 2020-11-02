@@ -110,7 +110,7 @@ Good programming is iterative.
 &#8195;Requirement May be the basis for a bid for a contract.(Requirement must be defined in detail and open to interpretation)  
 
 #### Type of Requirement 
-&#8195;User Requirement(for customer)  
+&#8195;User Requirement(for customer)，nature Language or diagrams    
 &#8195;System Requirement(as a contract)  
 &#8195;Software Specification(for developer)   
 &#8195;  
