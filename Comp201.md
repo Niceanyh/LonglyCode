@@ -122,7 +122,13 @@ Good programming is iterative.
 &#8195;Problem arise when requirements are not precisely stated.  
 &#8195;Ambiguous requirements may be interpreted in different way between user and developer.  
 &#8195;So,in principle requirement should be both Complete and Consistent.
-### Lecture 5  
+
+### Lecture 5  Requirement analysis
+####  Use cases
+&#8195;requirement could be functional and non-functional.  
+&#8195;functional modelling of requirements.  
+
+
 
 ### Lecture 6  
 hello,world!  
