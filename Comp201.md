@@ -136,3 +136,11 @@ Good programming is iterative.
 &#8195;2. Requirement analysis  
 &#8195;3. Require validation  
 &#8195;4. Requirement management  
+
+####  security requirement
+&#8195;Confidentiality  
+&#8195;Integrity  
+&#8195;Authentication and Authorization  
+&#8195;Non-repudiation  
+
+
