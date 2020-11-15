@@ -110,7 +110,7 @@ Good programming is iterative.
 &#8195;Requirement May be the basis for a bid for a contract.(Requirement must be defined in detail and open to interpretation)  
 
 #### Type of Requirement 
-&#8195;User Requirement(for customer)  
+&#8195;User Requirement(for customer)，nature Language or diagrams    
 &#8195;System Requirement(as a contract)  
 &#8195;Software Specification(for developer)   
 &#8195;  
@@ -122,8 +122,27 @@ Good programming is iterative.
 &#8195;Problem arise when requirements are not precisely stated.  
 &#8195;Ambiguous requirements may be interpreted in different way between user and developer.  
 &#8195;So,in principle requirement should be both Complete and Consistent.
-### Lecture 5  
+
+### Lecture 5  Requirement analysis
+####  Use cases
+&#8195;requirement could be functional and non-functional.  
+&#8195;functional modelling of requirements.  
+
 
 ### Lecture 6  
-hello,world!  
+####  requirement engineering process 
+&#8195;1. Requirement elicitation  
+&#8195;2. Requirement analysis  
+&#8195;3. Require validation  
+&#8195;4. Requirement management  
+
+####  security requirement
+&#8195;Confidentiality  
+&#8195;Integrity  
+&#8195;Authentication and Authorization  
+&#8195;Non-repudiation  
+
+<h2 id="3">Week3</h2>  
+### Lecture 7  System models
+#### 
 

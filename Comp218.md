@@ -76,10 +76,19 @@
 #### feature
 &#8195;Differences from NFA: It allows ε-transitions  
 
-<h2 id="3">Week3</h2> 
-### Lecture 7
+#### ε-NFA to NFA conversion 
+[![BdxxQU.md.png](https://s1.ax1x.com/2020/11/01/BdxxQU.md.png)](https://imgchr.com/i/BdxxQU)  
+&#8195;Paths with εs are replaced by a single transition  
+&#8195;States that can reach final state by ε are all accepting  
 
-### Lecture 8
+#### NFA to DFA conversion 
+&#8195;
 
-### Lecture 9
+<h2 id="3">Week3</h2>  
+
+### Lecture 7 Regular Expression(regex)
+
+### Lecture 8 Regex Analysis and Design 
+
+### Lecture 9 Regex to epsilon-NFA conversion 
 
