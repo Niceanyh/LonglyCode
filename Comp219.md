@@ -18,12 +18,23 @@
 
 ### Lecture 1  Introduction  
 #### Learning outcome:
-&#8195;• Basic algorithms that have been used to enable the AI agents to conduct the perception, inference, and planning tasks; Applying basic AI algorithms to solve problems;
-&#8195;• Machine learning algorithms; Applying machine learning algorithms to practical problems;
+&#8195;• Basic algorithms that have been used to enable the AI agents to conduct the perception, inference, and planning tasks; Applying basic AI algorithms to solve problems;  
+&#8195;• Machine learning algorithms; Applying machine learning algorithms to practical problems;  
 
-### Lecture 2  Software Process  
-#### Evolutionary Development  
-![Evolutionary Development](https://s1.ax1x.com/2020/10/15/0ohgF1.md.png)  
+### Lecture 2  Machine Learning overview  
+#### What is Machine Learning  
+&#8195;Programs that can improve their performance by applying learning algorithm on training data  
+
+#### applications of machine learning
+&#8195;(machine learning used When program can't do with reasonable efforts/can't define rules by hand)  
+&#8195;hand-written digit recognition(One of the first commercial and widely used ML systems)  
+&#8195;Face detection(Classifier is learnt from labelled data)  
+&#8195;Spam detection(classification problem)  
+&#8195;Stock price prediction(regression task)  
+
+#### Represent instances as fixed-length feature vectors
+&#8195;Representing instances using feature vectors(use a fixed-length vector to represent features of each instance)  
+&#8195;Another view of the feature-vector representation: a single database table
 
 ### Lecture 3  Requirements engineering  
 #### Software Specification
