@@ -25,7 +25,7 @@
 #### What is Machine Learning  
 &#8195;Programs that can improve their performance by applying learning algorithm on training data  
 
-#### applications of machine learning
+#### Applications of machine learning
 &#8195;(machine learning used When program can't do with reasonable efforts/can't define rules by hand)  
 &#8195;hand-written digit recognition(One of the first commercial and widely used ML systems)  
 &#8195;Face detection(Classifier is learnt from labelled data)  
@@ -34,11 +34,17 @@
 
 #### Represent instances as fixed-length feature vectors
 &#8195;Representing instances using feature vectors(use a fixed-length vector to represent features of each instance)  
-&#8195;Another view of the feature-vector representation: a single database table
+&#8195;Another view of the feature-vector representation: a single database table  
 
-### Lecture 3  Requirements engineering  
-#### Software Specification
-&#8195;Definition: the process of establishing what services are required and the constraints on the system’s operation and development.  
+### Lecture 3  Learning Basics
+#### Data collection
+&#8195;we often assume that training instances are independent and identically distributed   
+#### Three canonical learning problems
+&#8195;Regression -supervised  
+&#8195;Classification -supervised  
+&#8195;Unsupervised Learning  -Clustering -dimensionality reduction  
+
+
 
 
 <h2 id="2">Week2</h2>  
